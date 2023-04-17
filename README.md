@@ -1,2 +1,4 @@
 # No_consensus_with_one_faulty_process
-impossibility of distributed consensus with one faulty process ( seminar essay of the paper and ppt )
+Impossibility of distributed consensus with one faulty process by 
+MICHAEL J. FISCHER,NANCY A. LYNCH and MICHAEL S. PATERSON
+( seminar essay on FLP Paper)
